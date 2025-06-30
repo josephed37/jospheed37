@@ -40,7 +40,7 @@ I'm passionate about solving real-world problems through **data science**, **mac
   Predict SpaceX rocket launch success through exploratory data analysis and ML.
 
 - 📦 **[Log Analytics Pipeline](https://gitlab.com/josephed/log-analytics-pipeline):**  
-  A full-stack, containerized pipeline for ingesting, processing, storing, and visualizing application logs — built with **Docker, Apache Kafka, Logstash, Elasticsearch, Kibana, PostgreSQL**, and more.
+  A full-stack, containerized pipeline for ingesting, processing, storing, and visualizing application logs built with **Docker, Apache Airflow, Grafana, MinIO, Python, PostgreSQL**, and more.
 
 ---
 
